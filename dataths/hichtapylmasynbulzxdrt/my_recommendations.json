@@ -1,0 +1,103 @@
+[
+
+  {
+    "subject": "In the spotlight:",
+    "subject_ru": "В центре внимания:",
+    "name": "High quality wallpapers",
+    "name_ru": "Обои высокого качества",
+    "height_large_image": 450,
+    "open_wallpapers": true,
+    "show_on_text": true,
+    "text_on_image": "High quality wallpapers",
+    "text_on_image_ru": "Обои высокого качества",
+    "tag0": "2560x",
+    "tag1": "2560",
+    "large_image": "https://images.wallpaperscraft.ru/image/single/tsvetok_abrikosa_tsvetok_abrikos_905790_1280x720.jpg"
+  },
+
+  {
+    "name": "New wallpapers",
+    "name_ru": "Новые обои",
+    "height_large_image": 450,
+    "open_wallpapers": true,
+    "show_on_text": true,
+    "text_on_image": "New wallpapers",
+    "text_on_image_ru": "Новые обои",
+    "tag0": "=2780",
+    "tag1": "w=2780",
+    "large_image": "https://images.unsplash.com/photo-1556983703-27576e5afa24?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjcwNjY2NTAx&ixlib=rb-4.0.3&q=60&w=900"
+  },
+
+   {
+    "subject": "Most popular:",
+    "subject_ru": "Самые популярные:",
+    "name": "Black Gold",
+    "name_ru": "Черное золото",
+    "height_large_image": 350,
+    "open_wallpapers": true,
+      "show_on_text": true,
+        "text_on_image": "Black Gold",
+        "text_on_image_ru": "Черное золото",
+        "tag0": "black",
+        "tag1": "gold",
+        "tag2": "grey",
+        "tag3": "orange",
+    "large_image": "https://img.freepik.com/free-photo/black-liquid-marble-background-handmade-acrylic-paint_53876-108099.jpg?w=1800&t=st=1667759844~exp=1667760444~hmac=3e5ea81a5d20cc513beabce95c7d1855e2c2764caacf095e8666a14fe2214af6"
+  },
+  {
+    "name": "Green spiral",
+    "name_ru": "Зеленая спираль",
+    "height_large_image": 350,
+    "open_wallpapers": true,
+      "show_on_text": true,
+        "text_on_image": "Green spiral",
+        "text_on_image_ru": "Зеленая спираль",
+        "tag0": "green",
+        "tag1": "spiral",
+        "tag2": "vector",
+        "tag3": "line",
+    "large_image": "https://img.freepik.com/free-vector/green-abstract-spiral-background-vector-design-from-spinning-rays_1164-1128.jpg?w=1380&t=st=1662076407~exp=1662077007~hmac=665748429ed7f43668753e1f3bcd91dd5314d0919ef5b35568efc95bd7137645"
+  },
+  {
+    "subject": "Get more contents:",
+    "subject_ru": "Получите больше контента:",
+    "name": "Most popular themes",
+    "name_ru": "Популярные темы",
+    "text_on_image": "Most popular themes",
+    "text_on_image_ru": "Популярные темы",
+    "show_on_text": true,
+    "height_large_image": 370,
+    "open_themes": true,
+    "from": 180,
+    "until": 600,
+    "limit_count": 100,
+    "large_image": "https://img.freepik.com/free-vector/abstract-mosaic-web-background-vector-illustration_460848-10881.jpg?w=1800&t=st=1662076221~exp=1662076821~hmac=f698e51b88a1c5152034a14a4e6a33c8efec4f0038609f821b48fc426a275c81"
+  },
+  {
+    "name": "Most popular wallpapers",
+    "name_ru": "Популярные обои",
+      "show_on_text": true,
+    "open_wallpapers": true,
+    "tag0": "car",
+    "tag1": "bmw",
+    "height_large_image": 370,
+    "text_on_image": "Most popular wallpapers",
+    "text_on_image_ru": "Популярные обои",
+    "tag2": "auto",
+    "large_image": "https://img.freepik.com/free-vector/abstract-wave-line-background-vector-illustration_460848-11942.jpg?w=1380&t=st=1662076279~exp=1662076879~hmac=23d6086834dd60d882bf9dbee4fc30bef0a19b76c8b2ffb58b45c58a7d78241e"
+  },
+  {
+    "name": "Pixel wallpapers",
+    "name_ru": "Pixel обои",
+    "show_on_text": true,
+    "open_wallpapers": true,
+    "tag0": "web",
+    "tag1": "webp",
+    "tag2": ".web",
+    "height_large_image": 370,
+    "text_on_image": "Pixel wallpapers",
+    "text_on_image_ru": "Pixel обои",
+    "large_image": "https://rozetked.me/images/uploads/webp/anqxmcAG6Gdw.webp"
+  }
+
+]
